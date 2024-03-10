@@ -19,6 +19,7 @@ pids
 lib-cov
 todo.txt
 info.txt
+file-sharing.zip
 
 # Coverage directory used by tools like istanbul
 coverage

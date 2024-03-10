@@ -2,6 +2,10 @@
 
 This is a server-rendered file sharing application built with the Express.js framework, EJS (Embedded JavaScript templates), and MongoDB. It allows you to share files without the need to create an account. Download links will expire 24 hours after being shared for the first time.
 
+## Live Demo
+
+[FileXpress](http://filexpress.ap-south-1.elasticbeanstalk.com/)
+
 ## Features
 
 - **No Account Required**: Share files without the hassle of creating an account.
